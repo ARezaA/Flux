@@ -1,0 +1,4 @@
+Open the solution file using Visual Studio 2012 (trunk\Code\FluxAlpha)
+NOTE: Must use Visual Studio 2012 to build Windows 8.
+Also, in order to build a Windows 8 application, you must get the Windows Developer License, which should pop up automatically when starting Visual Studio 2012.
+To build the solution, just click the build button.
