@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="Flux" Publisher="CN=Plasmaterial" Version="0.5.0.0" />
+  <Properties>
+    <DisplayName>FluX</DisplayName>
+    <PublisherDisplayName>Plasmaterial</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+    <Description>FishingJoy_win8_metro</Description>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2</OSMinVersion>
+    <OSMaxVersionTested>6.2</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="Flux.App">
+      <VisualElements DisplayName="FluX" Logo="Assets\LogoMetro.png" SmallLogo="Assets\SmallLogo.png" Description="Flux" ForegroundText="dark" BackgroundColor="#FFFFFF">
+        <DefaultTile WideLogo="Assets\WideLogo.png" />
+        <SplashScreen Image="Assets\SplashScreen.png" />
+        <InitialRotationPreference>
+          <Rotation Preference="landscape" />
+        </InitialRotationPreference>
+      </VisualElements>
+    </Application>
+  </Applications>
+</Package>

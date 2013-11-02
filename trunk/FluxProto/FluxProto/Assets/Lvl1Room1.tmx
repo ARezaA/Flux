@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="33" height="18" tilewidth="128" tileheight="128">
+ <tileset firstgid="1" name="lvl1Room1" tilewidth="128" tileheight="128">
+  <image source="lvl1Room1.png" width="4224" height="2304"/>
+ </tileset>
+ <layer name="Background" width="33" height="18">
+  <data encoding="base64" compression="zlib">
+   eJx100OUGFYAhtGJbWti2544k2QmtlXEtlXEtlXEtlXFtlHFdm+WPZ3+593NW7zzbV5AwL8XichEISrRiE4MYhKL2MQhLvGITwISkojEJCEpyUhOClKSikBSk4a0Af9dJjKThaxkIzs5yEkucpOHvOQjPwUoSCEKU4SiFKM4JShJEKUoTRnKhtEQTCUqU4UQQqlKNapTg5rUojZ1qEs96tOAhjSiMU1oSjOa04KWtKJ1GA1taEs72tOBjnSiM13oSje604Oe9KI3fehLP/ozgIEMYjBDGMowhjMijIaRjGI0YxjLOMYzgYlMYjJTmMo0pjODmcxiNnOYyzzms4CFLGIxS1gaRsMylrOClaxiNWtYyzrWs4GNbGIzW9jKNrazg53sYjd72Ms+9nOAgxwKo+HTDnOEoxzjOCc4ySlOc4aznOM8F7jIJS5zhatc4zo3uMktbnOHu9z7n4b7POAhj3jME57yjOe84CWveM0b3vKO93zg46fHwjmEJwIRiURkohA1XNgNsd3HIS7xiE8CEpKIxCQhKclITgpSkopAUpOGtKQjPRnISCYyk4WsZCM7OchJLnKTh7zkIz8FKEghClOEohSjOCUoSRClKE0ZylKO8lSgIsFUojJVCCGUqlSjOjWoSS1qU4e61KM+DWhIIxrThKY0ozktaEkrWvMZn/MFX9KGtrSjPR3oSCc604WudKM7PehJL3rTh770oz8DGMggBjOEoQxjOCP4iq/5hm8ZyShGM4axjGM8E5jIJCYzhalMYzozmMksZjOHucxjPgtYyCIWs4SlfMf3/MCPLGM5K1jJKlazhrWsYz0b2MgmNrOFrWxjOzvYyS52s4e97GM/BzjIIX7iZ37hV37jMEc4yjGOc4KTnOI0ZzjLOc5zgYtc4jJXuMo1rnODm9ziNne4yz1+5w/+5C/+5j4PeMgjHvOEpzzjOS94ySte84a3vOM9H/hIQHj/n/BEICKRiEwUohKN6MQgJrGITRziEo/4JCAhiUhMEpKSjOSkICWpCCQ1aUhLOtKTgYxkIjNZyEo2spODnOQiN3nISz7yU4CCFKIwRShKMYpTgpIEUYrSlKEs5ShPBSoSTCUqU4UQQqlKNapTg5rU4h/cdv0/
+  </data>
+ </layer>
+</map>
